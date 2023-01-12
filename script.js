@@ -31,6 +31,6 @@ function newUser() {
   setTimeout(() => {
     // console.log(userAllData);
     setInitialDetails();
-  }, 500);
+  }, 700);
 }
 newUser();
