@@ -65,7 +65,7 @@ body {
 }
 @media screen and (max-width: 950px) {
   .Container {
-    height: 90%;
+    height: 100%;
   }
   .btnContainer {
     flex-direction: column;
